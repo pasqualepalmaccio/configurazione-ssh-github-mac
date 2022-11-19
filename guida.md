@@ -50,7 +50,7 @@ L'ultimo passaggio è quello di copiare il contenuto della nostra chiave pubblic
 <pre><code>pbcopy < ~/.ssh/id_ed25519.pub
 </code></pre>
 
-##Completiamo la configurazione su Github
+## Completiamo la configurazione su Github
 
 Apriamo github, clicchiamo sul profilo in alto a destra e clicchiamo sulla voce <b>settings</b>.
 
