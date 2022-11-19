@@ -1,4 +1,4 @@
-#Configurazione SSH Github su Mac OS
+# Configurazione SSH Github su Mac OS
 
 # Introduzione
 Il supporto di credenziali su HTTPS è stato deprecato in favore del collegamento tramite SSH KEYS su Github. Il concetto è questo: dobbiamo generare le chiavi (pubblica e privata) e aggiungerle all'Agent sulla nostra macchina locale. Dobbiamo infine mettere a conoscenza Github della nostra chiave creandone una nuova e inserendo il testo della nostra chiave pubblica nell'apposita textarea. 
